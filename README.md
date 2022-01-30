@@ -12,4 +12,5 @@ In this first video, `Vesting.hs` is **not** parameterized.
 [Watch the IOGAcademy video about parameterizing this
 script.](https://www.youtube.com/watch?v=XqFILXV_ACM&list=PLNEK_Ejlx3x2zxcfoVGARFExzOHwXFCCL&index=5)
 
-View the diff between these two versions in this repository.
+[View the diff between these two versions in this
+repository.](https://github.com/travishorn/plutus-parameterize/commit/3767c5665e412ab319b2244d74dc325e62541071#diff-2eb8c7c47462afd2b1de86ff9473b6d9c3cd071ea432004179bcdecc4cfea465)
